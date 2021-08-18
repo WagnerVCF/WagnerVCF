@@ -1,8 +1,8 @@
   𝗪𝗮𝗴𝗻𝗲𝗿 𝗩𝗶𝗻𝗶𝗰𝗶𝘂𝘀
 
-- 👋 Hi, I’m @WagnerVCF
-- :shipit: I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Olá bem-vindo ao meu perfil @WagnerVCF
+- :shipit: Dev Iniciante
+- :ringed_planet: Atualmente aprendendo C# e PHP
 
 <!---
 WagnerVCF/WagnerVCF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
