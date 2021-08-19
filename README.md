@@ -4,7 +4,7 @@
 - :ringed_planet: Atualmente aprendendo C# e PHP
 - :shipit: Dev Iniciante
 <br/>
-- <br/>
+<br/>
 <div>
   <a href="https://github.com/WagnerVCF>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerVCF&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
