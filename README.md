@@ -1,4 +1,4 @@
-   <h1>𝗪𝗮𝗴𝗻𝗲𝗿 𝗩𝗶𝗻𝗶𝗰𝗶𝘂𝘀</h1>
+   <h1>Wagner Vinícius</h1>
 
 - 👋 Olá bem-vindo ao meu perfil @WagnerVCF
 - :ringed_planet: Atualmente aprendendo C# e PHP
