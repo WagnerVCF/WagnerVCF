@@ -1,7 +1,7 @@
    <h1>Wagner Vinícius</h1>
 
 - 👋 Olá bem-vindo ao meu perfil @WagnerVCF
-- :ringed_planet: Atualmente aprendendo C# e PHP
+- :warning: Atualmente aprendendo C# e PHP
 - :shipit: Desenvolvedor de Sistemas
 <div>
   <a href="https://github.com/WagnerVCF">
