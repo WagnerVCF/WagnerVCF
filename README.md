@@ -2,7 +2,7 @@
 
 - 👋 Olá bem-vindo ao meu perfil @WagnerVCF
 - :ballot_box_with_check: Atualmente aprendendo C# e PHP
-- :computer: Desenvolvedor de Sistemas
+- :computer: Técnico em Desenvolvimento de Sistemas
 
 <br/>
 <div>
