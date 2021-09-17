@@ -1,6 +1,6 @@
    <h1>Wagner Vinícius</h1>
 
-- 👋 Olá bem-vindo ao meu perfil @WagnerVCF
+- 👋 Olá bem-vindo ao meu perfil, me chamo Wagner tenho 18 anos :octocat:
 - :ballot_box_with_check: Atualmente aprendendo C# e PHP
 - :computer: Técnico em Desenvolvimento de Sistemas
 
