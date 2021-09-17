@@ -11,8 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerVCF&layout=compact&langs_count=7&theme=dark"/>
 </div>    
 <br>   
+   h1>Mídias Digitais</h1>
    <div> 
-  h1>Mídias Digitais</h1>
   <a href="https://www.instagram.com/wagnerviniciuss_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/wagner-vinicius-54a169218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:contato@wagnerviniciusoficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
