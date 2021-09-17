@@ -21,9 +21,3 @@
    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img height="180em" src="https://uploaddeimagens.com.br/images/003/436/399/full/kisspng-web-development-software-developer-mobile-app-deve-designer-5ac2d58bb2de42.8234958515227180917327.png?1631900873"/>
 <br>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wagner-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-Csharp" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Wagner-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wagner-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>
