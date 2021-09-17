@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/wagnerviniciuss_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/wagner-vinicius-54a169218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:contato@wagnerviniciusoficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <img height="180em" src="https://cdn-icons-png.flaticon.com/512/1906/1906589.png"/>
+   <img height="180em" src="https://img2.gratispng.com/20180402/ree/kisspng-web-development-software-developer-mobile-app-deve-designer-5ac2d58b8d0d65.5065728615227180915778.jpg"/>
 <br>
 </div>
 <div style="display: inline_block"><br>
