@@ -1,6 +1,6 @@
    <h1>Wagner Vinícius</h1>
 
-- :octocat: Olá bem-vindo(a) ao meu perfil, me chamo Wagner Vinícius e atualmente estou com 18 anos
+- :octocat: Olá bem-vindo(a) ao meu perfil, me chamo Wagner Vinícius e tenho 18 anos
 - :ballot_box_with_check: Atualmente aprendendo C#, JS, HTML, CSS & MYSQL
 - :computer: Técnico em Desenvolvimento de Sistemas
 
