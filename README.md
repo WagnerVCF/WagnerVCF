@@ -18,6 +18,6 @@
   <a href="https://www.instagram.com/wagnerviniciuss_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://br.linkedin.com/in/wagnervcf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:contato@wagnerviniciusoficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img height="180em" src="https://uploaddeimagens.com.br/images/003/436/399/full/kisspng-web-development-software-developer-mobile-app-deve-designer-5ac2d58bb2de42.8234958515227180917327.png?1631900873"/>
+   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://uploaddeimagens.com.br/imagens/lumnxiI" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <br>
 </div>
