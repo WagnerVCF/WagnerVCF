@@ -1,7 +1,7 @@
    <h1>Wagner Vinícius</h1>
 
 - :octocat: Olá bem-vindo(a) ao meu perfil, me chamo Wagner Vinícius estudante de <strong>Desenvolvimento de Sistemas</strong>
-- 🦄 Linguagens: <strong>Delphi, Python, Java, CSharp e PHP.</strong>
+- 🦄 Linguagens: <strong>PHP, CSharp, Python e JavaScript.</strong>
 - :computer: Técnico em Desenvolvimento de Sistemas
 
 <br/>
