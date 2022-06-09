@@ -1,9 +1,8 @@
    <h1>Wagner Vinícius</h1>
 
-- :octocat: Olá bem-vindo(a) ao meu perfil, me chamo Wagner Vinícius tenho 19 anos e sou estudante de <strong>Desenvolvimento de Sistemas</strong>
+- :octocat: Olá bem-vindo(a) ao meu perfil, me chamo Wagner Vinícius tenho 19 anos e sou <strong>Técnico em Desenvolvimento de Sistemas</strong>
 - :space_invader: Linguagens: <strong>PHP, CSharp, JavaScript, Python e MySQL</strong>
 - :dart: Linguagens Escolhidas: <strong>PHP, JavaScript e MySQL</strong>
-- :computer: Técnico em Desenvolvimento de Sistemas
 
 <br/>
 
